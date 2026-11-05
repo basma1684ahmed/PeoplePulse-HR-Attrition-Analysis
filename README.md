@@ -1,17 +1,25 @@
+
 # 📊 PeoplePulse | HR Workforce & Attrition Analytics
 
 An end-to-end HR analytics project analyzing voluntary employee turnover across a workforce of 16,000 employees. This project focuses on identifying turnover drivers, examining departmental disparities, evaluating compensation impacts, and proposing actionable retention strategies.
+
+![Dashboard Preview](powerbi%20hr.jpg)
+---
 
 ## 📌 Project Overview
 * **Domain:** Human Resources (HR) Analytics
 * **Tools Used:** Microsoft Excel, Power BI Desktop, DAX
 * **Dataset Scope:** 16,000 employee records across 9 departments
-  
+
+---
+
 ## 🔍 Key Performance Indicators (KPIs)
 * **Total Workforce:** 16,000
 * **Total Leavers:** 1,832
 * **Overall Attrition Rate:** 11.4%
 * **Average Monthly Salary:** 13,640
+
+---
 
 ## 💡 Key Findings & Analytical Insights
 
@@ -33,6 +41,8 @@ An end-to-end HR analytics project analyzing voluntary employee turnover across 
 
 5. **Promotion Lag:**
    * Employees without a promotion in the last 2 years had an attrition rate of **12.0%**, compared to **9.5%** for promoted staff.
+
+---
 
 ## 🎯 Strategic Business Recommendations
 * **Target Commercial Retention:** Re-evaluate quota structures and work-life balance policies within Sales and Marketing.
